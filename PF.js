@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // 選取所有具有 class="show" 的按鈕
+    alert("這裡上次更新是2024 4月之前 所以寫的是13歲")
     const showButtons = document.getElementsByClassName('show');
 
     // 使用 for...of 迴圈來遍歷 showButtons
